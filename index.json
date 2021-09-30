@@ -13,3 +13,24 @@
         
          
     },
+
+{
+        "id":"3",
+        "Website":"Codeforces", 
+        "level":"advance",
+        "interviev_prepations":"",
+        "Website" : "https://codeforces.com/",
+        "website_link":"http://codeforces.com/"
+        
+         
+    },
+
+    {
+        "id":"4",
+        "Website":"Exercism", 
+        "level":"beginner",
+        "interviev_prepations":"",
+        "website_link":"https://exercism.org/",
+        
+         
+    },
